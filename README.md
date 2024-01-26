@@ -15,3 +15,5 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Iago-on-github&show_icons=true" />
 </picture>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iago-on-github&hide_progress=true)
