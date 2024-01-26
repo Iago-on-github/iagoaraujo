@@ -4,8 +4,6 @@
 ✉ Contate-me no email: Iago737@outlook.com
 💻HTML, CSS, JavaScript
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
